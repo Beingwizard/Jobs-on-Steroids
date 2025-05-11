@@ -5,7 +5,7 @@ Keeping an eye on - https://www.linkedin.com/feed/update/urn:li:activity:7290259
 Here’s the consolidated list combining your topics with the additional ones I suggested:  
 
 ### **📌 Before Applying**  
-1. **How to Write a Cover Letter** – Crafting a compelling story.  
+1. **[How to Write a Cover Letter – Do Recruiters Actually Read Cover Letters Anymore?](https://dev.to/beingwizard/how-to-write-a-cover-letter-do-recruiters-actually-read-cover-letters-anymore-o4e)
 2. **What to Include in a Resume & What Not to Include** – Avoiding common mistakes.  
 3. **How to Search for New Jobs If Nothing Is Working Out** – Smart job-hunting strategies.  
 4. **Building a Strong LinkedIn Profile** – Optimizing it for recruiters.  
